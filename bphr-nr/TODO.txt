@@ -1,0 +1,9 @@
+- restart network
+- update initledger
+- createPurchase txn (modify createMsg)
+  - should only be from student users
+- validPurchase txn (modify flagMsg) 
+  - should only be from outlet users
+- queryPurchase txn (modify queryMsg)
+  - should only be from uni users
+  - reward?
